@@ -1,8 +1,9 @@
-﻿using OpenQA.Selenium;
+﻿using AutomatedUITestingFrameworkDemo.Interfaces;
+using OpenQA.Selenium;
 
 namespace AutomatedUITestingFrameworkDemo.Adapters
 {
-    public class SeleniumElement
+    public class SeleniumElement : IPageElement
     {
         public SeleniumElement(IWebElement element)
         {
