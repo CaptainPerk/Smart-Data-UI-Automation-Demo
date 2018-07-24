@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedUITestingFramework
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartDataFramework", "SmartDataFramework\SmartDataFramework.csproj", "{844A0C60-AAEE-4BDE-9F76-C45FC1C565F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartDataUserInterfaceTests", "SmartDataUserInterfaceTests\SmartDataUserInterfaceTests.csproj", "{88EEF5B3-C5D2-4E99-ACDE-A78DC78BF5CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{844A0C60-AAEE-4BDE-9F76-C45FC1C565F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{844A0C60-AAEE-4BDE-9F76-C45FC1C565F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{844A0C60-AAEE-4BDE-9F76-C45FC1C565F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88EEF5B3-C5D2-4E99-ACDE-A78DC78BF5CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88EEF5B3-C5D2-4E99-ACDE-A78DC78BF5CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88EEF5B3-C5D2-4E99-ACDE-A78DC78BF5CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88EEF5B3-C5D2-4E99-ACDE-A78DC78BF5CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
