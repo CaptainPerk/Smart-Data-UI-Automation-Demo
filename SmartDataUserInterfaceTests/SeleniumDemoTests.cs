@@ -25,6 +25,7 @@ namespace SmartDataUserInterfaceTests
             Browser.SetResolution(320, 180);
             WaitForSeconds(10);
             Browser.MaximizeWindow();
+            WaitForSeconds(3);
 
             // Scrolling Demo
             Browser.ScrollDown();
